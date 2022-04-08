@@ -15,6 +15,13 @@ span.menu-title{
     border-style: solid;
     margin-bottom: 2%;
 }
+
+.center{
+    text-align: center;
+    border-style: none none solid none;
+    padding-left: 50%;
+    padding-right: 50%;
+}
 @media (min-width=576px) {
     .navbar a{
         margin-left: 5%;
